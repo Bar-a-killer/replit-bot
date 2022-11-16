@@ -526,7 +526,8 @@ async def on_message(message):
         await message.channel.send('-背包')
     if message.content == '9':
         await message.channel.send('-強化技能')
-""" 
+    gittry
+"""
 #-----------------------供養結束-------------------------#
 
 keep_alive.keep_alive()
